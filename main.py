@@ -9,3 +9,15 @@
 # Description:       Entry point for game logic and main loop
 # ==============================================
 
+# Import custom classes
+from player import Player
+from obstacle import Obstacle
+from game_manager import GameManager
+
+def main():
+    # Setup game environment and objects
+    game = GameManager()
+    game.run()
+
+if __name__ == "__main__":
+    main()
