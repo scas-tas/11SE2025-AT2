@@ -1,0 +1,8 @@
+This folder is for game assets such as images, sound effects, and fonts.
+
+Examples:
+- player_sprite.png
+- background_music.mp3
+- font.ttf
+
+Tip: Keep file names lowercase and use underscores instead of spaces.
